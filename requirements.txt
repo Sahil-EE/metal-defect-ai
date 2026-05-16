@@ -1,0 +1,22 @@
+# requirements.txt
+# Core Deep Learning
+torch==2.1.0
+torchvision==0.16.0
+
+# Image Processing
+opencv-python==4.8.1.78
+Pillow==10.1.0
+
+# Data Science
+numpy==1.26.2
+matplotlib==3.8.2
+seaborn==0.13.0
+scikit-learn==1.3.2
+
+# Utilities
+tqdm==4.66.1
+tensorboard==2.15.1
+
+# Export/Deployment (used in later phases)
+onnx==1.15.0
+onnxruntime==1.16.3
